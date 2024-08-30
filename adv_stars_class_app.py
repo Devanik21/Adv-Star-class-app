@@ -10,9 +10,12 @@ st.markdown("""
     - **QSO**
     - **Star**
 
-    Use the navigation bar to explore different pages:
+    Use the navigation bar on the left to explore different pages:
     - **Home**: Introduction to the app.
     - **Star Classification**: Input features to classify celestial objects.
     - **About**: Learn more about the app and its development.
     - **Contact**: Get in touch with us.
+    - **Help**: Get help or view FAQs.
+    - **Gallery**: View celestial images.
+    - **Feedback**: Provide feedback on the app.
 """)
